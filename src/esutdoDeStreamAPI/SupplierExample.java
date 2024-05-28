@@ -1,3 +1,4 @@
+package esutdoDeStreamAPI;
 import java.util.List;
 import java.util.function.Supplier;
 import java.util.stream.Collectors;
